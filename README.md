@@ -4,7 +4,7 @@ Repository with source code to be used in the hands-on lab about JPA. This hands
 
 ## UML Class Diagram and Entity Relationship Diagram for a bookstore
 
-<p align="center"><img src="https://github.com/pagliares/jdbc-hands-on-lab/blob/main/Images/Class_Diagram.png"></p>
+<p align="center"><img src="https://github.com/pagliares/jpa-hands-on-lab/blob/main/Images/Class_Diagram.png"></p>
 
 <p align="center"><img src="https://github.com/pagliares/jdbc-hands-on-lab/blob/main/Images/DER.png"></p>
 
